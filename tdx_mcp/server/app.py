@@ -1,8 +1,10 @@
 from __future__ import annotations
 
+from mcp.server.auth.settings import AuthSettings
 from mcp.server.fastmcp import FastMCP
 
 from tdx_mcp.config import get_settings
+from tdx_mcp.server.auth import StaticBearerTokenVerifier
 from tdx_mcp.server.tools_calendar import register_calendar_tools
 from tdx_mcp.server.tools_cb_ipo import register_cb_ipo_tools
 from tdx_mcp.server.tools_catalog import register_catalog_tools
@@ -21,6 +23,12 @@ def create_server(host: str = "127.0.0.1", port: int = 8000) -> FastMCP:
     settings = get_settings()
     service = TdxQuantService(tq_path=settings.tq_path, tq_dll_path=settings.tq_dll_path)
     service.initialize()
+    token_verifier = None
+    auth_settings = None
+    if settings.mcp_bearer_token:
+        token_verifier = StaticBearerTokenVerifier(settings.mcp_bearer_token)
+        # Enable FastMCP auth gate. Real token validation is done by token_verifier.
+        auth_settings = AuthSettings(issuer_url="http://127.0.0.1")
 
     mcp = FastMCP(
         name="通达信量化 MCP 服务",
@@ -32,6 +40,8 @@ def create_server(host: str = "127.0.0.1", port: int = 8000) -> FastMCP:
         ),
         host=host,
         port=port,
+        auth=auth_settings,
+        token_verifier=token_verifier,
     )
     register_connection_tools(mcp, service)
     register_quote_tools(mcp, service)

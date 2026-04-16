@@ -23,6 +23,7 @@
 | `TQ_DLL_PATH` | 否 | DLL 路径，多数情况留空 |
 | `MCP_HOST` | 否 | 仅 **main_http**：监听地址，默认 `127.0.0.1` |
 | `MCP_PORT` | 否 | 仅 **main_http**：监听端口，默认 `8765` |
+| `MCP_BEARER_TOKEN` | 否 | 仅 **main_http**：Bearer 鉴权令牌；为空则不启用 |
 
 **注意**：`main_stdio` 在内部仍会调用 `get_settings()`，**未设置 `TQ_PATH` 时进程会直接退出**。
 
@@ -151,6 +152,12 @@ uv run python -m tdx_mcp.main_http
 ```
 
 4. 在支持 **Streamable HTTP** 或 **SSE** 的 MCP 客户端中，按该客户端要求填写 **服务端 URL**（通常形如 `http://127.0.0.1:8765` 或文档给出的 MCP 路径，以 FastMCP / Cursor 当前版本为准）。
+
+如已配置 `MCP_BEARER_TOKEN`，客户端请求需携带请求头：
+
+```http
+Authorization: Bearer <MCP_BEARER_TOKEN>
+```
 
 stdio 与 HTTP **不要对同一客户端重复配置为两个同名工具源**，按需选一种即可。
 

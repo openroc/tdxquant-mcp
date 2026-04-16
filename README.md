@@ -109,6 +109,7 @@ python scripts/sync_tdx_help_docs.py
 | `TQ_DLL_PATH` | 否 | DLL 路径，多数环境可留空 |
 | `MCP_HOST` | 否 | HTTP/SSE 监听地址，默认 `127.0.0.1` |
 | `MCP_PORT` | 否 | HTTP/SSE 监听端口，默认 `8765` |
+| `MCP_BEARER_TOKEN` | 否 | HTTP/SSE 鉴权 Bearer Token；留空表示不启用鉴权 |
 
 MCP 进程启动时会加载 `get_settings()`，**缺少 `TQ_PATH` 会直接报错**。
 
