@@ -1,0 +1,2 @@
+"""MCP server registration layer."""
+

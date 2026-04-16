@@ -1,0 +1,45 @@
+from __future__ import annotations
+
+from tdx_mcp.server.category_registry import ToolMeta
+
+
+TOOL_METADATA: list[ToolMeta] = [
+    ToolMeta("connection_initialize", "连接管理", "手动初始化通达信连接"),
+    ToolMeta("connection_close", "连接管理", "关闭通达信连接"),
+    ToolMeta("market_get_kline", "行情数据", "获取K线/Tick数据"),
+    ToolMeta("market_get_snapshot", "行情数据", "获取实时行情快照"),
+    ToolMeta("market_subscribe_hq", "行情数据", "订阅行情更新"),
+    ToolMeta("stock_get_info", "股票信息", "获取股票基础信息"),
+    ToolMeta("stock_get_more_info", "股票信息", "获取股票更多信息"),
+    ToolMeta("stock_get_capital_info", "股票信息", "获取股本信息"),
+    ToolMeta("stock_get_track_etf_info", "股票信息", "获取跟踪指数ETF信息"),
+    ToolMeta("sector_list", "板块数据", "获取板块列表"),
+    ToolMeta("sector_stocks", "板块数据", "获取板块成分股"),
+    ToolMeta("sector_user_list", "板块数据", "获取用户自选板块"),
+    ToolMeta("sector_get_relation", "板块数据", "获取股票所属板块"),
+    ToolMeta("financial_get_report_range", "财务数据", "按时间范围获取财务数据"),
+    ToolMeta("financial_get_report_by_date", "财务数据", "按报告日期获取财务数据"),
+    ToolMeta("financial_get_gpjy", "财务数据", "获取股票交易衍生数据"),
+    ToolMeta("financial_get_bkjy", "财务数据", "获取板块交易衍生数据"),
+    ToolMeta("financial_get_scjy", "财务数据", "获取市场交易衍生数据"),
+    ToolMeta("cbipo_get_kzz_info", "可转债/新股", "获取可转债信息"),
+    ToolMeta("cbipo_get_ipo_info", "可转债/新股", "获取新股信息"),
+    ToolMeta("calendar_get_trading_calendar", "交易日历", "获取交易日历"),
+    ToolMeta("trade_get_account_id", "交易接口", "获取交易账户句柄"),
+    ToolMeta("trade_query_asset", "交易接口", "查询账户资产"),
+    ToolMeta("trade_query_orders", "交易接口", "查询委托"),
+    ToolMeta("trade_query_positions", "交易接口", "查询持仓"),
+    ToolMeta("trade_order_stock", "交易接口", "股票下单（默认dry-run）"),
+    ToolMeta("trade_cancel_order_stock", "交易接口", "股票撤单（默认dry-run）"),
+    ToolMeta("utility_formula_run", "工具/缓存", "执行通达信公式"),
+    ToolMeta("utility_refresh_cache", "工具/缓存", "刷新全市场缓存"),
+    ToolMeta("utility_refresh_kline", "工具/缓存", "刷新K线缓存"),
+    ToolMeta("utility_create_sector", "工具/缓存", "创建自定义板块"),
+    ToolMeta("utility_delete_sector", "工具/缓存", "删除自定义板块"),
+    ToolMeta("utility_rename_sector", "工具/缓存", "重命名自定义板块"),
+    ToolMeta("utility_clear_sector", "工具/缓存", "清空自定义板块"),
+    ToolMeta("tools_catalog", "工具/缓存", "获取工具分类目录"),
+    ToolMeta("tools_enum_definitions", "工具/缓存", "获取参数可用枚举定义"),
+    ToolMeta("docs_get_tdxquant_intro", "工具/缓存", "获取TdxQuant官方简介整理稿(Markdown)"),
+]
+

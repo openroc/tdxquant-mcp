@@ -1,0 +1,553 @@
+{
+  "generated_at": "2026-04-16T05:04:26Z",
+  "source": "https://help.tdx.com.cn/quant/docs/",
+  "entries": [
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h13a594nhvb4",
+      "title": "ETF/可转债/期货数据",
+      "file": "pages/markdown__mindoc-1h13a594nhvb4.md",
+      "status": 200,
+      "content_sha256": "a451df5e8fa783599e249e900026172c34b341ecf9fb56ade8f6c607f8fd78e1"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-tdxpy.html",
+      "title": "Q：运行的python文件可不可以随便放，不一定在PYPlugins\\user目录下？",
+      "file": "pages/markdown__mindoc-tdxpy.html.md",
+      "status": 200,
+      "content_sha256": "42599f2e4ed20a7a808f61b9bba3255129e9a431cc8c53512f955b269ddb5c49"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is",
+      "title": "TdxQuant 简介",
+      "file": "pages/markdown__mindoc-1cfsjkbf8f3is.md",
+      "status": 200,
+      "content_sha256": "53e07c961144cdbf3378689b636edc5d41d8bb93a8db47457b7965d52e69824d"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h62qo3mceppc.html",
+      "title": "VBT简单回测并输出图形",
+      "file": "pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h62qo3mceppc.html.md",
+      "status": 200,
+      "content_sha256": "0408a6cc245eb6ac379c9ba23fbe60af42fb23fdf9faf15cd9b8433996991e9e"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10pqrdlj71o.html",
+      "title": "下载特定数据文件download_file",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10pqrdlj71o.html.md",
+      "status": 200,
+      "content_sha256": "2080da70dbe7e5ef5c673464807da3285f4d3f86823a2f3748b64b30cd342a6a"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4",
+      "title": "交易函数",
+      "file": "pages/markdown__mindoc-1h7k4iqb1grk4.md",
+      "status": 200,
+      "content_sha256": "e4c5f65e988d6387697b890eb8cd478bfdef52a3055dc06968ee75e96682b241"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k5j4drr928.html",
+      "title": "交易执行函数",
+      "file": "pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k5j4drr928.html.md",
+      "status": 200,
+      "content_sha256": "aaab8549ca671e2e5cb7c7cafbf99abd44f78267909956280262493df9559297"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h12t4q6fg29o.html",
+      "title": "什么是量化交易",
+      "file": "pages/markdown__mindoc-1h12t4q6fg29o.html.md",
+      "status": 200,
+      "content_sha256": "319fdadc4d31f2b3a15d4ff2c3dd5ea55e90c5f650cb20fa6f1dede6cacc2a86"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo",
+      "title": "分类/板块成份股",
+      "file": "pages/markdown__mindoc-1ctuhttn72svo.md",
+      "status": 200,
+      "content_sha256": "803652a509b9bc06a013fcbaea2cbf441e2ff5f2237156a769236d062703dd80"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10rrkuj1drs.html",
+      "title": "创建自定义板块",
+      "file": "pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10rrkuj1drs.html.md",
+      "status": 200,
+      "content_sha256": "cc73528c821a8f1765c49b426790644a44c2e1a4dcf0a9c538e38923aaf273ef"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1cv85e8u9nb0c.html",
+      "title": "初始化initialize",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1cv85e8u9nb0c.html.md",
+      "status": 200,
+      "content_sha256": "303e9776a4062b838b16f84cdc77ccabc507855982df07cf92cee45f9ac98da0"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10s391lng6s.html",
+      "title": "删除自定义板块",
+      "file": "pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10s391lng6s.html.md",
+      "status": 200,
+      "content_sha256": "7ce7557958ce4de053a062c050765eecf8626fe6fad06e6410a95bdf6ddda225"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10fh9m6recg.html",
+      "title": "刷新历史K线缓存refresh_kline",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10fh9m6recg.html.md",
+      "status": 200,
+      "content_sha256": "ab916080e5dbb99e228da92d5758f63179b42aaf9f1918b6e224d3a96b05c1bc"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10f9145us1g.html",
+      "title": "刷新行情缓存(最新snapshot和K线数据)refresh_cache",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10f9145us1g.html.md",
+      "status": 200,
+      "content_sha256": "4294b7312e92eaef56ef0288591fcf184f695cd2a7c319ba73b740ca11a6d492"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10vc2pot87c.html",
+      "title": "发送回测数据send_bt_data",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10vc2pot87c.html.md",
+      "status": 200,
+      "content_sha256": "fcbad14af673c91fbdaa1147a6e65b6afc93c07f2e301d3f4bf667608efbf360"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10u17ue9464.html",
+      "title": "发送文件到客户端send_file",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10u17ue9464.html.md",
+      "status": 200,
+      "content_sha256": "5926dc02162d9097909c76877640f234629b4255f71835304048ff3901e16b46"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10rkbndkb0k.html",
+      "title": "发送消息到通达信客户端send_message",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10rkbndkb0k.html.md",
+      "status": 200,
+      "content_sha256": "3046649866d7c6ea3b675a6d14a6ee1c911d146c2026ee2a551045b6e4c73ba2"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10u5k9qjh8o.html",
+      "title": "发送预警信号send_warn",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10u5k9qjh8o.html.md",
+      "status": 200,
+      "content_sha256": "7512abcb4b46f40ad7976a0fc753d0bfb7fadd6154d9f3feba0e20d177fa425f"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h112vh7jtsms.html",
+      "title": "取消订阅更新unsubscribe_hq",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h112vh7jtsms.html.md",
+      "status": 200,
+      "content_sha256": "e732ac722c8bf09ca59a1e4bebc22632ef1ae6530fffb79a34e2f7c4a44988a4"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3hsvcct5sdc.html",
+      "title": "向通达信公式设置数据formula_set_data",
+      "file": "pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3hsvcct5sdc.html.md",
+      "status": 200,
+      "content_sha256": "226a28010c957953fc4158b4945f2d6d7bc27ecb601174ac43f96bc0be8fed69"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3hs08rn02uc.html",
+      "title": "向通达信公式设置数据信息formula_set_data_info",
+      "file": "pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3hs08rn02uc.html.md",
+      "status": 200,
+      "content_sha256": "55bc04da923a802c184ff2387e312d9565992e7895f4868f7c71b7bbe380d412"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc",
+      "title": "场景化示例",
+      "file": "pages/markdown__mindoc-1h1525ci3mnkc.md",
+      "status": 200,
+      "content_sha256": "305fa9021b685fc9cb9471d0a05e99a53bb824b58c956a11c66fbf430219ea4f"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/mindoc-1d00970eq1rtc.html",
+      "title": "安装Python及VSCode等开发环境",
+      "file": "pages/markdown__mindoc-1cfsjkbf8f3is__mindoc-1d00970eq1rtc.html.md",
+      "status": 200,
+      "content_sha256": "ddaf071487d47211c4edc2b583a79afc0a8d69ca17e0f4c6de4d23fa71139377"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h62l8kg2k4jc.html",
+      "title": "导出多组数据到通达信客户端 print_to_tdx",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h62l8kg2k4jc.html.md",
+      "status": 200,
+      "content_sha256": "f53dbfba259c0b310513b56c1545addda4cbafdfef6cd14dd96944aa8684b247"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/Dict.html",
+      "title": "常量枚举",
+      "file": "pages/markdown__Dict.html.md",
+      "status": 200,
+      "content_sha256": "921e1f0c5003c6209634e650463714f35b85027884044d252f55095c481dfe3c"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/gzh20260302wzlz.html",
+      "title": "打通通达信量化任督二脉：公式与Python双向数据互通闭环",
+      "file": "pages/markdown__gzh0122inweixinwenz__gzh20260302wzlz.html.md",
+      "status": 200,
+      "content_sha256": "d4e49ebc60fc93840db8567c707ff518bf6059df9f61c5df60778055a5bdaf02"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h15262vnafcc.html",
+      "title": "执行选股策略并加入客户端自定义板块",
+      "file": "pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h15262vnafcc.html.md",
+      "status": 200,
+      "content_sha256": "9a4977d2aa1b92053f5766fb6edb07985a6240bf526a1d8d5dba17412db83849"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h4ad5lisvdfg.html",
+      "title": "批量调用通达信公式formula_process_mul_xg/zb",
+      "file": "pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h4ad5lisvdfg.html.md",
+      "status": 200,
+      "content_sha256": "15094ebf0a7cd1a24427e12a81bf13581bda0546d1d0ea5c080aa372a832d6cd"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h84elp5atr6o.html",
+      "title": "撤单",
+      "file": "pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h84elp5atr6o.html.md",
+      "status": 200,
+      "content_sha256": "02276ac3206a2de19ea75961de87f02bf798416293eebf57e65fa767815f3ff3"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k4rp481gt4.html",
+      "title": "查询账户委托信息",
+      "file": "pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k4rp481gt4.html.md",
+      "status": 200,
+      "content_sha256": "96ee07ec5ccebd154bead587ce7d4cc72aa2b31e9b192aab27e67f3cff72f794"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k5ar9kc508.html",
+      "title": "查询账户持仓信息",
+      "file": "pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k5ar9kc508.html.md",
+      "status": 200,
+      "content_sha256": "9bd39e3c9485eb175056da833d51504c317b6c4acfb9c7d47d0d3bf99cc7bbdb"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h84fvcjulrnc.html",
+      "title": "查询账户资产信息",
+      "file": "pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h84fvcjulrnc.html.md",
+      "status": 200,
+      "content_sha256": "1f92ed5b239abfb23ba87e5d895b89efb0e5d7ed1989453eab9603e74ec4e7e5"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3hte6obagc0.html",
+      "title": "格式化K线数据formula_format_data",
+      "file": "pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3hte6obagc0.html.md",
+      "status": 200,
+      "content_sha256": "a39a6bba6477a2b1e3a5d8057c3f03101a2f89574ead7030c7fc33b2aa4f4a46"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/mindoc-1cv7o3nje2gu8.html",
+      "title": "步骤分解",
+      "file": "pages/markdown__mindoc-1cfsjkbf8f3is__mindoc-1cv7o3nje2gu8.html.md",
+      "status": 200,
+      "content_sha256": "2f2f55a05c873d96a58d1c85779245e5c12a771581d4b1627b1597378f8d4a33"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10sec960u0c.html",
+      "title": "添加自定义板块成份股",
+      "file": "pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10sec960u0c.html.md",
+      "status": 200,
+      "content_sha256": "9bf44c07feacfd70a08ad7b943c70dc829c526865d81a5e62676d9fcd7f72835"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10sbcnl1c94.html",
+      "title": "清空自定义板块成份股",
+      "file": "pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10sbcnl1c94.html.md",
+      "status": 200,
+      "content_sha256": "d3f868823aae5947c3fe510f6298166a31fbf9061022ec4687f6be27d86facee"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk",
+      "title": "自选股/自定义板块",
+      "file": "pages/markdown__mindoc-1h139a4ckchkk.md",
+      "status": 200,
+      "content_sha256": "b29e8ee39a6bf4e2796a6344697acedad40aea9a4b0ecc06f43d4ad0e9ba0d8c"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo/mindoc-1h10r5907noko.html",
+      "title": "获取A股板块代码列表get_sector_list",
+      "file": "pages/markdown__mindoc-1ctuhttn72svo__mindoc-1h10r5907noko.html.md",
+      "status": 200,
+      "content_sha256": "d8b189ce3e49a1ab8998eb345f76b763f6210ce9a2b55d6b5ac744c835dd83fb"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10g60jt68sc.html",
+      "title": "获取K线行情get_market_data",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10g60jt68sc.html.md",
+      "status": 200,
+      "content_sha256": "bbac4f52d2cb86855f03b3e08c51912867cef94d47621ff0ec13eeb30b256af2"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10m001ic888.html",
+      "title": "获取专业财务数据get_financial_data",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10m001ic888.html.md",
+      "status": 200,
+      "content_sha256": "671ed70ebeb774e7e0995a79ffa60fd48af124528b952d63d27d178d45930722"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10q7i3702rk.html",
+      "title": "获取交易日列表get_trading_dates",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h10q7i3702rk.html.md",
+      "status": 200,
+      "content_sha256": "ceaa518223c1daa1dec5c13e11c8482bbc9b96716886a61d41d0e22352c0de6a"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3httgemshno.html",
+      "title": "获取公式中的设置数据formula_get_data",
+      "file": "pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3httgemshno.html.md",
+      "status": 200,
+      "content_sha256": "f96611d350f0921d48333663e6bafdddc1cfbc7b2dbbe6c015cf55391154f933"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10hsiat36k4.html",
+      "title": "获取分红配送数据get_divid_factors",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10hsiat36k4.html.md",
+      "status": 200,
+      "content_sha256": "7aef1f6f52e0a0ed96ef98e03c7b7663d103162fde43de49ed49ff9311870eba"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h13a594nhvb4/mindoc-1h137euvcjn98.html",
+      "title": "获取可转债信息get_kzz_info",
+      "file": "pages/markdown__mindoc-1h13a594nhvb4__mindoc-1h137euvcjn98.html.md",
+      "status": 200,
+      "content_sha256": "306bf49016703c2fee7f6debe105fde39943bdccab6ce9453b852285c939782b"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10p8op6ia9g.html",
+      "title": "获取市场交易数据",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10p8op6ia9g.html.md",
+      "status": 200,
+      "content_sha256": "368d904d327880c4e3b39b90c4575e7bd5549153d712b8d0cd4406cb2fc69d93"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10iig4pb6e0.html",
+      "title": "获取快照数据get_market_snapshot",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10iig4pb6e0.html.md",
+      "status": 200,
+      "content_sha256": "9f43422ce8223ff5f5367f2937408853e2baf1fa1c0a70ac6a29d09b5d990096"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10mdt617qss.html",
+      "title": "获取指定日期专业财务数据get_financial_data_by_date",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10mdt617qss.html.md",
+      "status": 200,
+      "content_sha256": "a4f6f768fc3d7261cf29a168be836377037761f490c2ed7d0a7f0baf39c6514d"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10pe678ta04.html",
+      "title": "获取指定日期市场交易数据get_scjy_value_by_date",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10pe678ta04.html.md",
+      "status": 200,
+      "content_sha256": "a1f81e2b7ac1fc7b035480d414cb2ac046d6a1221ca7ee3ad165edefe45a0ace"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10p3d31736g.html",
+      "title": "获取指定日期板块交易数据get_bkjy_value_by_date",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10p3d31736g.html.md",
+      "status": 200,
+      "content_sha256": "5e84cd9fc91ff26d35709cc760c6ea8f52639b0fe0ae6a20577643f54c2f239f"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h2pci5gh6h7k.html",
+      "title": "获取指定日期股票交易数据get_gpjy_value_by_date",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h2pci5gh6h7k.html.md",
+      "status": 200,
+      "content_sha256": "744a8d9b97c676823a438354090debb3367914d9ff25cf182f8d677dcdf9e5d2"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h137jr3khrqo.html",
+      "title": "获取新股申购信息get_ipo_info",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h137jr3khrqo.html.md",
+      "status": 200,
+      "content_sha256": "5f7240b0eada8ab949750505be1d137428322240a6b9c7525054d9fc30777274"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10p0ncmp5mc.html",
+      "title": "获取板块交易数据get_bkjy_value",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10p0ncmp5mc.html.md",
+      "status": 200,
+      "content_sha256": "bc1bed509442e6ce9831a95d0001efb974fcdbee075222b2e52481788a6f599e"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo/mindoc-1h10r92mchgug.html",
+      "title": "获取板块成份股get_stock_list_in_sector",
+      "file": "pages/markdown__mindoc-1ctuhttn72svo__mindoc-1h10r92mchgug.html.md",
+      "status": 200,
+      "content_sha256": "4986db212528353e7e99c15ed1e277ce9fea3f8c4b497c4ce176539be383232e"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h3ru0b1tssrc.html",
+      "title": "获取每天的股本数据get_gb_info",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h3ru0b1tssrc.html.md",
+      "status": 200,
+      "content_sha256": "2964014a7f822f6682a17cbf9e410b691409b1be20fa678dfa4192b5626435d6"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo/mindoc-1h10qo3uj48fg.html",
+      "title": "获取系统分类成份股get_stock_list",
+      "file": "pages/markdown__mindoc-1ctuhttn72svo__mindoc-1h10qo3uj48fg.html.md",
+      "status": 200,
+      "content_sha256": "146fe0407102d8e6360b47535c5567b8897f0c95c92a616757a28fa05dd56aa7"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10muc82r55k.html",
+      "title": "获取股票交易数据get_gpjy_value",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10muc82r55k.html.md",
+      "status": 200,
+      "content_sha256": "632727b6f876740511dfda873ec4c5e518d7d3de2ea3aa77191c5c95c609fbc7"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h84ec4p26qus.html",
+      "title": "获取股票所属板块",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h84ec4p26qus.html.md",
+      "status": 200,
+      "content_sha256": "e81937dc7449c2f9f9851c2582626b0bcff916593a5229e6b8f49fa3e5757436"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h3rtq1hij0ac.html",
+      "title": "获取股票更多信息get_more_info",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h3rtq1hij0ac.html.md",
+      "status": 200,
+      "content_sha256": "4afd3a3dd77f089dd6c8ecdb5087de48d2b2829647a0007705282ab52c3a9626"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10pk3rsg044.html",
+      "title": "获取股票的单个财务数据get_gp_one_data",
+      "file": "pages/markdown__TdxQuant.md__mindoc-1h10pk3rsg044.html.md",
+      "status": 200,
+      "content_sha256": "fbeaa521286493783b4838358a2da04fc43a7c776966eab3e509e3a08ddcc054"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h1hauh9inaac.html",
+      "title": "获取自定义板块列表get_user_sector",
+      "file": "pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h1hauh9inaac.html.md",
+      "status": 200,
+      "content_sha256": "91e02a8261be72b861b8c98fab5665be456b4bf93d7aa77b3372d5bb00dc77dc"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10jj7r7jol4.html",
+      "title": "获取证券基本信息get_stock_info",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10jj7r7jol4.html.md",
+      "status": 200,
+      "content_sha256": "7fa5c10bcf7b2662992356dd15fdb589b5a773c6feb9702f08cb622261fe14f5"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k4k5tk6q64.html",
+      "title": "获取资金账户句柄",
+      "file": "pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k4k5tk6q64.html.md",
+      "status": 200,
+      "content_sha256": "4ebf469248b851bfd1aeb88d81b2655ef26536aff1c4347778a71023593e26a2"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h13a594nhvb4/mindoc-1h6hknp6pjppc.html",
+      "title": "获取跟踪指数的ETF信息get_trackzs_etf_info",
+      "file": "pages/markdown__mindoc-1h13a594nhvb4__mindoc-1h6hknp6pjppc.html.md",
+      "status": 200,
+      "content_sha256": "75b026a06468eacab4af8257cfaf796bf9a13695cf9b7640db93b758995c52cf"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h1137r4k2mas.html",
+      "title": "获得订阅列表get_subscribe_hq_stock_list",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h1137r4k2mas.html.md",
+      "status": 200,
+      "content_sha256": "5d5b8ebfd674c5ba60206813b266b5496f4094e7b44bace4e5732d61490012c6"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h1ep1rl20jv8.html",
+      "title": "计算调仓信号并快速买卖",
+      "file": "pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h1ep1rl20jv8.html.md",
+      "status": 200,
+      "content_sha256": "bff308dd7a114334a15c52f842733490f6ce1fa6fa8823f9abddfbdc88ae6d60"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h1104d65vr68.html",
+      "title": "订阅行情subscribe_hq",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h1104d65vr68.html.md",
+      "status": 200,
+      "content_sha256": "06f718d141554454bca6c849f04cc2e44566c9a437aae803d8b206459e3b5c52"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h1526nmnk5n4.html",
+      "title": "订阅行情涨幅突破实时预计",
+      "file": "pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h1526nmnk5n4.html.md",
+      "status": 200,
+      "content_sha256": "f402e54cf78522660a88ff5854af4346fc42f22cfea155182de009c616e451e3"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h85iq443j44c.html",
+      "title": "调用客户端功能",
+      "file": "pages/markdown__ctx.stock.md__mindoc-1h85iq443j44c.html.md",
+      "status": 200,
+      "content_sha256": "55c126202c05afef4d3bcb553f9e0f9d1be4f58b1856c01df2edd7e89c73e9e9"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g",
+      "title": "调用通达信公式",
+      "file": "pages/markdown__mindoc-1h3hrvkp4sc0g.md",
+      "status": 200,
+      "content_sha256": "c441ff68849ce7db67c3008813f203119ef5c531303d2595cc0950699c65a12d"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3huq37005ro.html",
+      "title": "调用通达信公式进行计算formula_zb/xg/exp",
+      "file": "pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3huq37005ro.html.md",
+      "status": 200,
+      "content_sha256": "7fa6b07ed13191924942a7e7c3ba5d1cd01701bbbdb850dcd9a4a27501adbd96"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md",
+      "title": "财务类数据",
+      "file": "pages/markdown__TdxQuant.md.md",
+      "status": 200,
+      "content_sha256": "b51ff2a8a457d845ada36455958aac0eddda7fef350502ac71b253edd985d4fc"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md",
+      "title": "通用函数",
+      "file": "pages/markdown__ctx.stock.md.md",
+      "status": 200,
+      "content_sha256": "d63e5a27f2761780091d66a7713d32fa3d51f5d9f1af7cfeffe32da4e24bcf27"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg",
+      "title": "通达信TQ可以获取如下数据",
+      "file": "pages/markdown__mindoc-1ctuhthaq5qmg.md",
+      "status": 200,
+      "content_sha256": "38c8d48044c46486e84755ba4722cb8e3dab968ee6e32ee2122e23b1b844b087"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz",
+      "title": "通达信TQ策略介绍和应用示例",
+      "file": "pages/markdown__gzh0122inweixinwenz.md",
+      "status": 200,
+      "content_sha256": "1b2543cf7b3ab4acb9f2e5fd3c70ef3736015f573abd64becceaa59f214be55c"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/gzh20260122wzlz.html",
+      "title": "通达信TQ策略介绍和应用示例",
+      "file": "pages/markdown__gzh0122inweixinwenz__gzh20260122wzlz.html.md",
+      "status": 200,
+      "content_sha256": "78d1ef8e128d8f0e29da65d76d5cd1f001d44dc21278d830aa596be33e5ebc03"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/TdxQuantVersion.html",
+      "title": "通达信量化平台",
+      "file": "pages/markdown__mindoc-1cfsjkbf8f3is__TdxQuantVersion.html.md",
+      "status": 200,
+      "content_sha256": "fe062bbf36b97de5ff68428f6ce62898c0b68cf930b27c81e90be9457fc87e96"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/mindoc-1d00kk3jsibbc.html",
+      "title": "通达信量化平台",
+      "file": "pages/markdown__mindoc-1cfsjkbf8f3is__mindoc-1d00kk3jsibbc.html.md",
+      "status": 200,
+      "content_sha256": "c4743d96261ee85fc2aabfe74428d8c1a616ada3c30ce3f065f88ddecab5850e"
+    },
+    {
+      "url": "https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10s7n863d50.html",
+      "title": "重命名自定义板块",
+      "file": "pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10s7n863d50.html.md",
+      "status": 200,
+      "content_sha256": "72a737b7763d22667b0b5e1cda1c5835d86bd9512e2bd78b883fa3ab15bb0402"
+    }
+  ],
+  "errors": []
+}

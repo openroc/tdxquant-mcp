@@ -1,0 +1,45 @@
+[project]
+name = "tdxquant-mcp"
+version = "0.1.0"
+description = "MCP service wrapper for TdxQuant tqcenter"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.9.0",
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "python-dotenv>=1.0.1",
+]
+
+[project.optional-dependencies]
+http = [
+    "uvicorn>=0.30.0",
+]
+sync-docs = [
+    "httpx>=0.27.0",
+    "beautifulsoup4>=4.12.0",
+    "trafilatura>=1.8.0",
+    "html2text>=2024.2.26",
+]
+dev = [
+    "pytest>=8.0.0",
+    "beautifulsoup4>=4.12.0",
+]
+
+[build-system]
+requires = ["hatchling>=1.24.0"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["tdx_mcp"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"tdx_mcp/resources/tdxquant_intro.md" = "tdx_mcp/resources/tdxquant_intro.md"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+markers = [
+    "integration: 需通达信客户端与 TDX_INTEGRATION=1 的联调测试",
+    "needs_tdx_client: 依赖已登录的 TdxQuant 终端",
+]
