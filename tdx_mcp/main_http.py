@@ -216,9 +216,39 @@ def main() -> None:
         # 获取 SSE app 并包装 CORS 中间件
         sse_app = mcp_server.sse_app()
         
-        # 添加 POST 方法支持到 /sse 路由
+        # 添加 OAuth 资源发现端点（避免 404 错误）
         from starlette.routing import Route
-        from starlette.responses import PlainTextResponse
+        from starlette.responses import PlainTextResponse, JSONResponse
+        
+        async def oauth_protected_resource_handler(request):
+            """处理 OAuth 资源发现请求。"""
+            return JSONResponse(
+                status_code=200,
+                content={
+                    "resource": f"http://{settings.mcp_host}:{settings.mcp_port}/sse",
+                    "authorization_servers": [],
+                    "scopes_supported": [],
+                    "bearer_methods_supported": ["header"],
+                    "resource_documentation": "This service does not require OAuth authentication"
+                },
+                headers={"Access-Control-Allow-Origin": "*"}
+            )
+        
+        # 添加两个 OAuth 发现端点路由
+        oauth_root_route = Route(
+            "/.well-known/oauth-protected-resource",
+            oauth_protected_resource_handler,
+            methods=["GET"]
+        )
+        oauth_sse_route = Route(
+            "/.well-known/oauth-protected-resource/sse",
+            oauth_protected_resource_handler,
+            methods=["GET"]
+        )
+        sse_app.routes.append(oauth_root_route)
+        sse_app.routes.append(oauth_sse_route)
+        
+        # 添加 POST 方法支持到 /sse 路由
         
         async def sse_post_handler(request):
             """处理 POST 请求，避免 405 错误。"""
